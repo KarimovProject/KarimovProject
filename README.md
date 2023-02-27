@@ -10,7 +10,6 @@
 <a href="https://t.me/Karimov_Abdullatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/KarimovProject/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 <a href="https://www.sololearn.com/KarimovProject/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
-<a href="[https://www.sololearn.com/KarimovProject/20988344](https://www.sololearn.com/profile/27804078)"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
 ## Language and TOOLS
 
