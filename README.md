@@ -14,7 +14,7 @@
 
 ## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,flask,github,postgres,gitlab,atom,cpp,heroku,html,instagram,linux,md,py,vscode)](https://skillicons.dev)
 ## About Me
 ### Hi there 👋. I'm Abdullatif and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 year old I study at [TATU ![image    ](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/)
 - **🔴 Visit My Instagram Accout [@k.abdullatif.2003](https://www.instagram.com/k.abdullatif.2003/)**
