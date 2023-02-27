@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=discord,flask,github,postgres,gitlab,atom,cpp,heroku,html,instagram,linux,md,py,vscode)](https://skillicons.dev)
 ## About Me
-### Hi there 👋. I'm Abdullatif and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 years old. I study at [SamTATU ![image    ](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)]([https://tuit.uz/](https://tuit.uz/samarqand-filiali/))
+### Hi there 👋. I'm Abdullatif and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 years old. I study at [SamTATU ![image    ](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)]([https://tuit.uz/](https://tuit.uz/samarqand-filiali))
 - **🔴 Visit My Instagram Accout [@k.abdullatif.2003](https://www.instagram.com/k.abdullatif.2003/)**
 - **🔵 Chat with me on Telegram Messanger [@Karimov_Abdullatif](https://t.me/Karimov_Abdullatif)**
 - **🔴 Visit My Twitter Accout [@k_abdullatif_03](https://www.instagram.com/k_abdullatif_03/)**
