@@ -1,22 +1,50 @@
-# KarimovProject-
-### Hi there 👋
-![KarimovProject's github stats](https://github-readme-stats.vercel.app/api?username=KarimovProject&show_icons=true&theme=tokyonight)
-[![CodeWars](https://www.codewars.com/users/KarimovProject/badges/large)]([https://www.codewars.com/users/KarimovProject(https://www.codewars.com/users/KarimovProject))
-# [Karimov Abdullatif!](abdullatifkarimov772@gmail.com) ![Developer Icon](./images/developer.png) 🇺🇿 
-## Social networks
-<a href="https://github.com/KarimovProject"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/KarimovProject/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a>
-<a href="https://instagram.com/k.abdullatif.2003"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/Karimov_Abdullatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/KarimovProject/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/profile/28463402"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<div align="center">
 
-## Language and TOOLS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,55:1e3a8a,100:2563eb&text=Abdullatif%20Karimov&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%E2%86%92%20DevOps%20Engineer&descAlignY=58&descSize=17" alt="Abdullatif Karimov — Backend Developer and DevOps Engineer" width="100%"/>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,flask,github,postgres,gitlab,atom,cpp,heroku,html,instagram,linux,md,py,vscode)](https://skillicons.dev)
-## About Me
-### Hi there 👋. I'm Abdullatif and I'm from [UZBEKISTAN🇺🇿   ](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 years old. I study at [SamTATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/samarqand-filiali)
-- **⭕ Visit My Instagram Accout [@k.abdullatif.2003](https://www.instagram.com/k.abdullatif.2003/)**
-- **🔵 Chat with me on Telegram Messanger [@Karimov_Abdullatif](https://t.me/Karimov_Abdullatif)**
-- **🟣 Visit My Twitter Accout [@k_abdullatif_03](https://twitter.com/k_abdullatif_03)**
-- **🔵 Visit My Facebook Accout [@k.abdullatif.2003](https://www.facebook.com/k.abdullatif.2003/)**
+📍 Samarkand, Uzbekistan 🇺🇿
+
+<a href="https://t.me/Karimov_Abdullatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:abdullatifkarimov772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://gitlab.com/KarimovProject/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+<a href="https://instagram.com/k.abdullatif.2003"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.codewars.com/users/KarimovProject/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars"/></a>
+
+</div>
+
+## About
+
+I build backend systems with Python and Django, then take them all the way to production: containers, CI/CD, reverse proxies and backups on servers I set up myself.
+
+I've been writing code since 2017, starting with Pascal at school. I hold a Bachelor's in Computer Engineering from TUIT and went through the DevOps track at School 21.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,sqlite,cpp&perline=6" alt="Python, Django, PostgreSQL, Redis, SQLite, C++"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,nginx,githubactions,gitlab,git&perline=8" alt="Docker, Linux, Ubuntu, Bash, Nginx, GitHub Actions, GitLab, Git"/>
+</p>
+
+## Selected work
+
+| Project | What it is | Built with |
+|---|---|---|
+| **K-ONE** · private | Event management system: planning, approvals, QR check-in, reports, Telegram notifications | Django, PostgreSQL, Redis, Docker |
+| [**Oncoscience**](https://github.com/KarimovProject/Journal_cancercenter) | Academic journal platform for an oncology center, in three languages | Django, DRF, PostgreSQL |
+| [**Portfolio**](https://github.com/KarimovProject/portfolio) | My personal site | HTML |
+
+## Now learning
+
+Monitoring with Prometheus and Grafana, then Kubernetes and Terraform.
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KarimovProject&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub streak"/>
+
+<img src="https://ghchart.rshah.org/2563eb/KarimovProject" alt="GitHub contribution chart" width="100%"/>
+
+</div>
