@@ -25,7 +25,7 @@ I've been writing code since 2017, starting with Pascal at school. I hold a Bach
 
 | Role | Where | When |
 |---|---|---|
-| **DevOps / Infrastructure Engineer** | Republican Medical Center (Oncology & Radiology) | 2026 – present |
+| **DevOps / Infrastructure Engineer & Software Developer** | Republican Medical Center (Oncology & Radiology) | 2026 – present |
 | **DevOps Engineer** | BUBLSOFT LLC | 2025 – 2026 |
 | **Backend Developer** | Freelance | 2023 – 2025 |
 
@@ -84,7 +84,5 @@ Deeper monitoring with Prometheus, then Kubernetes and Terraform.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KarimovProject&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub streak"/>
-
-<img src="https://ghchart.rshah.org/2563eb/KarimovProject" alt="GitHub contribution chart" width="100%"/>
 
 </div>
