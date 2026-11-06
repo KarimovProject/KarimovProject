@@ -8,7 +8,7 @@
 
 <a href="https://abdullatif.uz"><img src="https://img.shields.io/badge/abdullatif.uz-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="abdullatif.uz"/></a>
 <a href="https://t.me/Karimov_Abdullatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:abdullatifkarimov772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:abdullatifkrmv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://gitlab.com/KarimovProject/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 <a href="https://instagram.com/k.abdullatif.2003"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.codewars.com/users/KarimovProject/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars"/></a>
