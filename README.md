@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,55:1e3a8a,100:2563eb&text=Abdullatif%20Karimov&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%E2%86%92%20DevOps%20Engineer&descAlignY=58&descSize=17" alt="Abdullatif Karimov — Backend Developer and DevOps Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,55:1e3a8a,100:2563eb&text=Abdullatif%20Karimov&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=17" alt="Abdullatif Karimov — DevOps Engineer and Backend Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=Building+backends+with+Python+%26+Django;From+first+commit+to+production;Docker+%C2%B7+CI%2FCD+%C2%B7+Self-hosted+servers" alt="Building backends with Python and Django. From first commit to production. Docker, CI/CD, self-hosted servers."/>
 
-📍 Samarkand, Uzbekistan 🇺🇿
+📍 Tashkent, Uzbekistan 🇺🇿
 
+<a href="https://abdullatif.uz"><img src="https://img.shields.io/badge/abdullatif.uz-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="abdullatif.uz"/></a>
 <a href="https://t.me/Karimov_Abdullatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:abdullatifkarimov772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://gitlab.com/KarimovProject/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
@@ -20,6 +21,14 @@ I build backend systems with Python and Django, then take them all the way to pr
 
 I've been writing code since 2017, starting with Pascal at school. I hold a Bachelor's in Computer Engineering from TUIT and went through the DevOps track at School 21.
 
+## Experience
+
+| Role | Where | When |
+|---|---|---|
+| **DevOps / Infrastructure Engineer** | Republican Medical Center (Oncology & Radiology) | 2026 – present |
+| **DevOps Engineer** | BUBLSOFT LLC | 2025 – 2026 |
+| **Backend Developer** | Freelance | 2023 – 2025 |
+
 ## My journey
 
 ```mermaid
@@ -29,16 +38,17 @@ timeline
     2021 : Python, Computer Engineering at TUIT
     2023 : Django REST Framework and Docker
     2024 : DevOps track at School 21
-    2026 : Production systems on my own server
+    2025 : DevOps Engineer at BUBLSOFT
+    2026 : Infrastructure at a national medical center
 ```
 
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,sqlite,cpp&perline=6" alt="Python, Django, PostgreSQL, Redis, SQLite, C++"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,redis,sqlite,cpp&perline=7" alt="Python, Django, Flask, PostgreSQL, Redis, SQLite, C++"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,nginx,githubactions,gitlab,git&perline=8" alt="Docker, Linux, Ubuntu, Bash, Nginx, GitHub Actions, GitLab, Git"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,nginx,grafana,githubactions,gitlab,git&perline=9" alt="Docker, Linux, Ubuntu, Bash, Nginx, Grafana, GitHub Actions, GitLab, Git"/>
 </p>
 
 ## Selected work
@@ -47,7 +57,7 @@ timeline
 |---|---|---|
 | **K-ONE** · private | Event management system: planning, approvals, QR check-in, reports, Telegram notifications | Django, PostgreSQL, Redis, Docker |
 | [**Oncoscience**](https://github.com/KarimovProject/Journal_cancercenter) | Academic journal platform for an oncology center, in three languages | Django, DRF, PostgreSQL |
-| [**Portfolio**](https://github.com/KarimovProject/portfolio) | My personal site | HTML |
+| [**abdullatif.uz**](https://abdullatif.uz) | Personal portfolio, running on my own server | HTML, Docker, Nginx |
 
 ## How I ship
 
@@ -67,7 +77,7 @@ flowchart LR
 
 ## Now learning
 
-Monitoring with Prometheus and Grafana, then Kubernetes and Terraform.
+Deeper monitoring with Prometheus, then Kubernetes and Terraform.
 
 ## GitHub activity
 
